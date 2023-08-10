@@ -1,4 +1,4 @@
-# Cashier_Code_F
+# Cashier Code F
 Cashier Code F adalah aplikasi pembayaran harga barang. aplikasi dapat di jumpai di minimarket, dll
 =================================================================================================
 Exe installation tutorial
@@ -15,7 +15,7 @@ Tutorial steps: https://codef26.wordpress.com/exe-installation-tutorial-link/
 3. Install crystal reports runtime.
 Link Crystal Report Runtime 32 bit dan 64 bit:
 https://drive.google.com/file/d/1ur5bjcGCLT9CWwHno1t9_3IqEiy-HjRX/view?usp=drivesdk
-4.Install Microsoft SQL2019-SSEI-Expr.
+4. Install Microsoft SQL2019-SSEI-Expr.
 Link Microsoft SQL Server 2019:
 https://drive.google.com/file/d/16dPkY8D1VejGT2wmlLTIDrKUlLKLUMsM/view?usp=drivesdk
 5. Mengatasi Microsoft SQL2019-SSEI-Expr.
