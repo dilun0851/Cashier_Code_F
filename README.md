@@ -21,4 +21,4 @@ https://drive.google.com/file/d/16dPkY8D1VejGT2wmlLTIDrKUlLKLUMsM/view?usp=drive
 5. Mengatasi Microsoft SQL2019-SSEI-Expr: https://youtu.be/G9AhXLJMjfw.
 6. Restore database Microsoft SQL2019-SSEI-Expr: https://youtu.be/mhPOpYoao70.
 7. Membuat Security Logins: https://youtu.be/OLE_OiJiAH0.
-8. Mencari Server Name Microsoft SQL2019-SSEI-Expr: https://youtu.be/P3GPkcq5Wxo.
+8. Mencari Server Name Microsoft SQL2019-SSEI-Expr: https://youtu.be/P3GPkcq5Wxo
