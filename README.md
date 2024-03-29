@@ -6,11 +6,11 @@ Exe installation tutorial
 Complete tutorials: https://youtu.be/hmLuiCu5ERs
 
 Link Cashier Code F pemilik AIKK Official:
-https://codef26.wordpress.com/cashier-code-f/
+https://codefserver.my.id/cashier-code-f/
 ================================================================================================
-Tutorial steps: https://codef26.wordpress.com/exe-installation-tutorial-link/
+Tutorial steps: https://codefserver.my.id/exe-installation-tutorial-link/
 
-1. Unduh di link ini https://codef26.wordpress.com/cashier-code-f/
+1. Unduh di link ini https://codefserver.my.id/cashier-code-f/
 2. Ekstrak Cashier Code F.exe.
 3. Install crystal reports runtime: https://youtu.be/FUDS78v6LPA.
 Link Crystal Report Runtime 32 bit dan 64 bit:
